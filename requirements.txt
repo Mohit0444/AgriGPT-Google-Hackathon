@@ -2,5 +2,4 @@ streamlit
 pandas
 openpyxl
 google-generativeai
-google.cloud
-google.cloud.translate_v2
+google-cloud
