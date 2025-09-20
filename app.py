@@ -17,7 +17,7 @@ translate_client = translate.Client()
 from google.cloud import translate_v2 as translate
 from google.oauth2 import service_account
 
-TRANSLATE_KEY_PATH = r"C:\Users\Mohit\Downloads\delta-smile-472720-v5-f858d3ff2adf.json"  # <-- your real path
+TRANSLATE_KEY_PATH = r"delta-smile-472720-v5-f858d3ff2adf.json"  # <-- your real path
 credentials = service_account.Credentials.from_service_account_file(TRANSLATE_KEY_PATH)
 translate_client = translate.Client(credentials=credentials)
 
