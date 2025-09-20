@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "delta-smile-472720-v5",
+  "private_key_id": "f858d3ff2adfaad9817c1fe271271b8b52573d5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmS1ebtCnkc5CG\nhvb6du1D1CxlKu4qx/nqCAZkk+WTHj0BzyqLe0uP17Brm1OWP/GLln7hkA0ZNiDd\nzcoXeb/DbJRHO0Jm8UJiVJ76HOvgbjJt/womzlFwgOAx/hnQ8cAS7mmoQseOaPZo\nsjmedlyEr2e1wtSCFn22U4NPwyjNLrNRkjHFOEZ9SM1iAsuEs0XS2mcW2U9ebf5D\n4C4DVpzJF3QQTuSeVqwtF5j8tIgomGMscNViIyyFjyWlDFQM3ejIMqntpRXQcha5\nJglfi29gQKBejTLRCCTPR+n73eYFmPScxhLn/CDYeEzVxI7UI6cRGpImrrL8sCq7\nDvGPb2b5AgMBAAECggEAEHcbSI5xK26J29gXMjt+SJ4Ee0vh4xiD1TlQMLs4GvX+\ngmRZyQ+/LpHjpPPvNcxFBVY0X+8cbOegH3YV0Xc7loT0tYzXiUvQD95jE06zyDgB\nBEUhYzBAfgw0pp6LPdYB953llkRub9pSs5EaBWegx356nVOaKPtDHT9tnAMt0grp\nkH9eXKyPTMiiAO8VhoXetyY9KSq6ykoqSdln7OLGpm1BkzjRD3hGsjbub1wb+CeO\nmltoqMngtjhQk0efgBoOz7OF9UjH3t3r5LZkGiBwkntRvpp7QIlJyVt502g5PMNP\nOVHKfcyWNT5kl2ZoaMXzRyT4v1A4W8EbcMJeXeC/BQKBgQDoAN46ck2OKAiHHulq\n2BYoYE2dy1aU6uJlH7IhMeCof4IO+6EyFHAaupVDfvqvaQgXlN6BZp0TxQkoNdNY\n4VlTPJpYd5Oy5Aj7xRdYBWJDx6UC/E3bVxohmZYzcavTmqn7GEq55j40rjd81IM5\nPbyv84pWA71raATk+q1Kfgew8wKBgQC3fpZsLVy8TdY8z5UACK16Ws1RB/lmVxpF\nYq7UCUG9KnXLUeQ/Xml2FpAJkz60uAH22plZiZEprD6NNhbTLVmgAmjK8IkJTcjn\nFtegP9NL6O9mjKYUK+m9MpEyqJI6noOq3bhi7N54OWD4zki4IUHCuGZ1zZxGW9c2\nr7N4RNhjYwKBgQDFSF+w0Zvzg0VlKTsRuPh2kxXNVailb2re1OoTYieJAQxmk0EK\npeiCQiFFSQgA+05/Rv9CiDCQLB/SSpsS3GWp60HQcrZtC448Eef82G8r9evysvu9\nxb6ZzdG0ozea880RkSGSHSDOiUrz4n5HwaDe+jirVfjQCZ8H28ZaLvt5UwKBgAvO\nmG1DifkP5R4qmULUTB1YZGe3ZKPiLO2UCP3ZzqIWblfz4AT31T9k+kWzdNB6Gp5A\nuKdbQ7zzuV6qwVM7Us4J+aY9TgQMPkYoYR2NndH/ng/yMumPXc3vyAoDcM1Wz9AZ\nzjiHV1VTE9tOor0+XpXh+a3Q2iJo3HNHYPv3KhlTAoGBAJbujSdczHWkbfA7V3oO\nW1W8xNL+3gtO41lPRhY6yChMM6GF/bf2Pdw6mfIrdAjWf02UpVj4dynqqNXhh30g\nTwwMMug4cgx/tqWbYuyuCtbB3YtAy7G2J9LbOBKLAJU4P004Rl6Eed3imhU9dcMl\nvCUBDfBVin4yJi3OCVSVJqMQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation-key@delta-smile-472720-v5.iam.gserviceaccount.com",
+  "client_id": "104546412372718450116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-key%40delta-smile-472720-v5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
